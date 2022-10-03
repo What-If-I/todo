@@ -9,7 +9,7 @@ Usage: todo <title> [content]
 ## Install
 ### From source
 ```bash
-go install github.com/What-If-I/tlog@latest 
+go install github.com/What-If-I/todo@latest 
 ```
 _go >= 1.18 required_
 
