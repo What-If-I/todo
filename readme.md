@@ -6,6 +6,7 @@ Simple CLI that helps save TODOs to Notion.
 Usage: todo <title> [content]
 ```
 
+## Install
 ### From source
 ```bash
 go install github.com/What-If-I/tlog@latest 
